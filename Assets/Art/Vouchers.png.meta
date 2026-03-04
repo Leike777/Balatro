@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: d4ee224c44eb1284bb6adbe8e2efaf59
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vouchers_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d9b33205647104abf3d99e0fbb5cfb
+      internalID: 124633902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29480cf0ff8a46f41bda56b7ce32c21e
+      internalID: 555498444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba9c426fc6efca4f95277f27df1bd1a
+      internalID: 50939764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eed4c83099597429e8bb9d373e94a4
+      internalID: 1793437178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76554f2fc7ff4904fb45f36927e5fd08
+      internalID: -1470979930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ef1f85e7d37949af5b501bbedf688
+      internalID: -1555187496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2de7e924fc9f544b6cb1045c9ece28
+      internalID: -1647458821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695eaea781cba114690d5b017ce352b3
+      internalID: 1124705983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da47b9661477f0645b846c140c731f60
+      internalID: 863506041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c5d8ee05c619c499da8d26580764e5
+      internalID: 949160618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ecd548a47c9504d8bc67f26e0965fc
+      internalID: 1055064921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827cf77b4ac6443488adb9f5d7082bbf
+      internalID: -1062781479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51651a68985bd4b4e8b49a94961a1e18
+      internalID: -1606620073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_13
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5f7ad60ac5ae45a5070cd65341dca
+      internalID: 1720228312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b60858944ad3499ce5b43bc60f402
+      internalID: -2098417786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_15
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53edc944575e5aa4390432e52b27c889
+      internalID: 1772941961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd011346592a70e4bb3f257de4747e63
+      internalID: -1538016213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0551d027167144b67bbb67c976bf2
+      internalID: 346323967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66414c6f220a0054b9c71d6c9bd76262
+      internalID: -309500062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e068e0e781310db41a20fa65649d9f02
+      internalID: 391033549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee1ea8dfaa38d74199e823bf5c19fbf
+      internalID: 330978429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_21
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e8308905c400b4fbd65c5cfa49d166
+      internalID: -2009076914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19ea751a64268e48a16ffdddd3f2680
+      internalID: -976684300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2ccd533ee2d9408e228e687124c52
+      internalID: -120197689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_24
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec55d0e0b7df8844382180d651633e10
+      internalID: -1773339465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d55167f178b904e9a544a77d014156
+      internalID: 1176889138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa4b37d3f512f34885e52a31a77c02d
+      internalID: -762332572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_27
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b246395d7ef9146b6ad97b86da5d49
+      internalID: -1840193536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7629dbf07b2d9164f87b26d99d411002
+      internalID: -1121550418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed7d621376b894f8f3973c17852c04
+      internalID: -889911260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_30
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c814adbcc9840489b50df756e34a4b
+      internalID: -403619928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_31
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40455571fa7ef47a84ff5ace186721
+      internalID: -729333528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_32
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650a5382fc3d1d244aa875f199c2acd6
+      internalID: 1198576444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vouchers_33
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b0dbf124420344d992bb0ef503b14b
+      internalID: 1536858823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vouchers_0: 124633902
+      Vouchers_1: 555498444
+      Vouchers_10: 1055064921
+      Vouchers_11: -1062781479
+      Vouchers_12: -1606620073
+      Vouchers_13: 1720228312
+      Vouchers_14: -2098417786
+      Vouchers_15: 1772941961
+      Vouchers_16: -1538016213
+      Vouchers_17: 346323967
+      Vouchers_18: -309500062
+      Vouchers_19: 391033549
+      Vouchers_2: 50939764
+      Vouchers_20: 330978429
+      Vouchers_21: -2009076914
+      Vouchers_22: -976684300
+      Vouchers_23: -120197689
+      Vouchers_24: -1773339465
+      Vouchers_25: 1176889138
+      Vouchers_26: -762332572
+      Vouchers_27: -1840193536
+      Vouchers_28: -1121550418
+      Vouchers_29: -889911260
+      Vouchers_3: 1793437178
+      Vouchers_30: -403619928
+      Vouchers_31: -729333528
+      Vouchers_32: 1198576444
+      Vouchers_33: 1536858823
+      Vouchers_4: -1470979930
+      Vouchers_5: -1555187496
+      Vouchers_6: -1647458821
+      Vouchers_7: 1124705983
+      Vouchers_8: 863506041
+      Vouchers_9: 949160618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

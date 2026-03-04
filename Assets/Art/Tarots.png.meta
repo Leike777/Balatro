@@ -1,0 +1,1346 @@
+fileFormatVersion: 2
+guid: 55de124d03f5d364e8ebffe3f6d89a54
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tarots_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325a64fdd62f4e94c8995db82a697090
+      internalID: 2119293556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0ea841708ed5c4f9a73d897a295b44
+      internalID: 817201020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7333fdc2baff6c41993d95d8a3d2c8c
+      internalID: -1506512007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a726ba7a07204a83c37d6e83830ab
+      internalID: 1031335463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4c4bdadf473294bab675d55ff34836
+      internalID: -951252835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b239460a504cba24b8395817c1889a88
+      internalID: -1739350391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c2b2a2a12a5234db0a595f21458435
+      internalID: -549201020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d63a95ebf66c6c4b83ede42f1b3ea92
+      internalID: 395355006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_8
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72206f55d90cc4c89dd36e7a264072
+      internalID: 1212697686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_9
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ab992c7c526a488ada4d8cc2bb3dd
+      internalID: -1736141996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3057a17f4f2a464e854da04e4b64a3b
+      internalID: -507898287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ff18fc8a5320f44aded470992b8400
+      internalID: -245359462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2a2480930c724091d04537eb90eb5
+      internalID: -1931299053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd80b9c131c1e8d4fb3552d8661e989b
+      internalID: -1029395718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e4eddbcb84f6040babcf0880370f52
+      internalID: 1094515181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_15
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb26e81b8a731d449cbbc7462a40065
+      internalID: -77357393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf9bd1f0481ce946931c3e988a02c5e
+      internalID: 35669274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7792195873f1361458bde90e01bd4542
+      internalID: 2035577061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_18
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966eb9cc0de5b741b12efe1384caf0e
+      internalID: 648527250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_19
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df68f510e7e9a64d931b7408940f10a
+      internalID: -494193928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4760b3d2c349b404ea684875ca5f006a
+      internalID: 769654770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a66376f0661072409ad41a7a6d76308
+      internalID: 1093406995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0febdce6981fa45a0c820e59d33853
+      internalID: 717760195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10afb3fce27c276498be57151bda0caf
+      internalID: -106026425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d528120b3b915b0428f71d93be3d00d7
+      internalID: 66839403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_25
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ed86927211b747aac481a83ab0f09
+      internalID: 741433904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1bdec74c117840969f86e6a33e211
+      internalID: 516195238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_27
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4ec166c60b76143b634c11d838833a
+      internalID: 1931841058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_28
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a04836a9446e45901b3ee7d996e0d
+      internalID: 55761222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_29
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992f6b652b5e4a542a37d9ef1e3c47c4
+      internalID: 977034228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c891571bcaac84cb4f64b6148db133
+      internalID: -1216152082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b59ec812b30a4dbffde4f0982954a
+      internalID: 1018282124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0fa5da1817eb41b2b57332e8f2c45
+      internalID: -476073292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d7b1560abec6b4abf831dc71d09906
+      internalID: -1950255293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a0b57aa3e3fc4cb5da0e68543f61a
+      internalID: -2062371491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_35
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7c7f8594d41674980e403026cfa6fa
+      internalID: -873407400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_36
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74d442567db0a458268211a63ea887
+      internalID: 2119697389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_37
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759db13802d062247b68b5e8e3c8fd93
+      internalID: -944571354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_38
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae7ef964d80b6340a8dd2ce2417c274
+      internalID: 1238069986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_39
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1bb37ff0cc7ee46b08047ddb6b32a0
+      internalID: -1047427266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2baeb76eb4c3a4d94c6d632bfa2900
+      internalID: 1103282815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca57a534ead8994b92e8c5df76d2969
+      internalID: 210254530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffa660f2f2818e4b86c4a38c5e3d779
+      internalID: 2100905335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e312038eb114c2647a05c2f664a2524e
+      internalID: 1434937440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a3d0925303e7a4082b82d7edf83b5e
+      internalID: 1049741128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_45
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508065198a173a24eb2d0b6e19485419
+      internalID: 294507390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_46
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78162c89bf7e6104282fa1c6fda69412
+      internalID: 431346917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_47
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c916801324c5b46a442f27a28fa82d
+      internalID: -1266550402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_48
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a861819f345aa47b39dd232053c0a1
+      internalID: 1274851506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_49
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc723f5cc4a8dd04baaf5a26a32140df
+      internalID: -1043095770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8098bd30c19a90448e00beb0f8992b8
+      internalID: -551389075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_51
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337eebb2615430645a5576702fc9325f
+      internalID: 1604798458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb209746d369814e8ae0e29ac7680f4
+      internalID: 418464760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_53
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf63aef74788d24eb60a0f264145238
+      internalID: 631023029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_54
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e5af5dd1df124f8305b8a3e441ce2
+      internalID: 656488133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarots_55
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f923b3f0a4ddfe419ba37d44125e87e
+      internalID: 2015196252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tarots_0: 2119293556
+      Tarots_1: 817201020
+      Tarots_10: -507898287
+      Tarots_11: -245359462
+      Tarots_12: -1931299053
+      Tarots_13: -1029395718
+      Tarots_14: 1094515181
+      Tarots_15: -77357393
+      Tarots_16: 35669274
+      Tarots_17: 2035577061
+      Tarots_18: 648527250
+      Tarots_19: -494193928
+      Tarots_2: -1506512007
+      Tarots_20: 769654770
+      Tarots_21: 1093406995
+      Tarots_22: 717760195
+      Tarots_23: -106026425
+      Tarots_24: 66839403
+      Tarots_25: 741433904
+      Tarots_26: 516195238
+      Tarots_27: 1931841058
+      Tarots_28: 55761222
+      Tarots_29: 977034228
+      Tarots_3: 1031335463
+      Tarots_30: -1216152082
+      Tarots_31: 1018282124
+      Tarots_32: -476073292
+      Tarots_33: -1950255293
+      Tarots_34: -2062371491
+      Tarots_35: -873407400
+      Tarots_36: 2119697389
+      Tarots_37: -944571354
+      Tarots_38: 1238069986
+      Tarots_39: -1047427266
+      Tarots_4: -951252835
+      Tarots_40: 1103282815
+      Tarots_41: 210254530
+      Tarots_42: 2100905335
+      Tarots_43: 1434937440
+      Tarots_44: 1049741128
+      Tarots_45: 294507390
+      Tarots_46: 431346917
+      Tarots_47: -1266550402
+      Tarots_48: 1274851506
+      Tarots_49: -1043095770
+      Tarots_5: -1739350391
+      Tarots_50: -551389075
+      Tarots_51: 1604798458
+      Tarots_52: 418464760
+      Tarots_53: 631023029
+      Tarots_54: 656488133
+      Tarots_55: 2015196252
+      Tarots_6: -549201020
+      Tarots_7: 395355006
+      Tarots_8: 1212697686
+      Tarots_9: -1736141996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

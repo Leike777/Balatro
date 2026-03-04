@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: f176f95241a9b1447b37ef4c63a3471e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boosters_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959491a296e598e42a698346b1c5dad6
+      internalID: -1994314147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1520
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1dcc92e89b5744080b2aa342a9fcdb
+      internalID: -709733441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1520
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99bdf64052cd3342be9a97dc251e44e
+      internalID: -908039593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1520
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0382c6d07e09b3489995a6baf078807
+      internalID: -835011783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1731e43115853143bd016d9a8f5a8da
+      internalID: -1007438542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1330
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed873b1fcab46428dc65c2f8adef07
+      internalID: -655089427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1330
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79bd2bda453718438697fbf7c979f7b
+      internalID: -374587752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1330
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635ea01bce3a8947b424e82e119de77
+      internalID: 411465600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b45bb154fae3f4c8523dbfe44746a7
+      internalID: -2000881197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1140
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8b9152590c4cf48b5a1986208d7ece
+      internalID: -1036653854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1140
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86920b1a26cf744895e9df75a8a2060
+      internalID: -2131721995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1140
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e949edd50670af84a8a7707d3fa3b423
+      internalID: 1206804135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf3aaf2fbd3074f9d3e835a364a85f
+      internalID: 1115195534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde3e09d304cf864fa8d5f6264c19d58
+      internalID: -610702593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a07924b722d1540a4cb3608fc42774
+      internalID: 1084798006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 950
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5d93f494e5a0479aa95f7312024bf
+      internalID: -1157282382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecac76f673ca2845be86de326aff4dd
+      internalID: -303895541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5585d77f4c53069438535a2d1fca3e66
+      internalID: -785232357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2607189e71fd24d881053077564bd1
+      internalID: -1243982057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 760
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2aac4ba2da72648af0a2ad9e9e9135
+      internalID: -1670679398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e49d9e2e1eebd8478412e9dbb395407
+      internalID: 909988286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49606ef4abb79a54a97ca1090701af82
+      internalID: 1784100604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa878b74ca0254b85e65e631f5c175
+      internalID: 171446257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69e1938a7c0b8d48b0556be627138f8
+      internalID: 250509906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb0368ff16cc6b4f911e5de8aebc209
+      internalID: -884149663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f459d46ec9a8fc4da80702082f7e42a
+      internalID: 641446893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c467c781e6c64a8dda499e44a027a
+      internalID: -1097119405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_27
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875dee8fabf01fe47a8e1870029f8d7e
+      internalID: 1993045849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176a3b1c629fae4da11c77d299cdab7
+      internalID: 2134872350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321fa38e5aa6b1d4e8e4b16a0e9df0ef
+      internalID: 261216900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbbf8289ee55624d8cd05c495f93ed9
+      internalID: -1989095188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605794dc1e8c21642aac1507f8533215
+      internalID: 1345804226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boosters_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827ff3bfc1336741850e132ae1125a9
+      internalID: -1754946142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boosters_0: -1994314147
+      boosters_1: -709733441
+      boosters_10: -2131721995
+      boosters_11: 1206804135
+      boosters_12: 1115195534
+      boosters_13: -610702593
+      boosters_14: 1084798006
+      boosters_15: -1157282382
+      boosters_16: -303895541
+      boosters_17: -785232357
+      boosters_18: -1243982057
+      boosters_19: -1670679398
+      boosters_2: -908039593
+      boosters_20: 909988286
+      boosters_21: 1784100604
+      boosters_22: 171446257
+      boosters_23: 250509906
+      boosters_24: -884149663
+      boosters_25: 641446893
+      boosters_26: -1097119405
+      boosters_27: 1993045849
+      boosters_28: 2134872350
+      boosters_29: 261216900
+      boosters_3: -835011783
+      boosters_30: -1989095188
+      boosters_31: 1345804226
+      boosters_32: -1754946142
+      boosters_4: -1007438542
+      boosters_5: -655089427
+      boosters_6: -374587752
+      boosters_7: 411465600
+      boosters_8: -2000881197
+      boosters_9: -1036653854
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

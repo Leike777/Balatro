@@ -1,0 +1,1258 @@
+fileFormatVersion: 2
+guid: 9f0827c24aae4f344ae9df7888ab7fef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99e19d90d55b6048b0ab82e4fc3dda7
+      internalID: -490261298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09843a035f46667488e86b171effeba3
+      internalID: -1211796172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e510dee38f5d0c489703dd50708d709
+      internalID: 2036471401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dc36ec918124b4da5c587ac20150c3
+      internalID: 1686887422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69dc9ff821ddb8408d6897b7a909e71
+      internalID: -295391671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355f72ee04837444bd90c74fcc389b5
+      internalID: -693212396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a659d32a2f811df4eac3d8dfb1c5d7da
+      internalID: 1155977725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57332024bee61ad4dae4c07688312d73
+      internalID: 695525755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_8
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae29320ff17e443aced3a565724667
+      internalID: 480771449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_9
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9071f1d88ec204bbebda923b4d67e2
+      internalID: 1681790910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_10
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7171e6b812f8b47ab8235741f69885
+      internalID: -216088479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_11
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da57801820da124ab452ec2aea22868
+      internalID: -1301232184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_12
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 570
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af67921cce41f438257a539eb7d1ae
+      internalID: 1670980492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be4e1977fa41c4ab9e77781909c8f7
+      internalID: 422203307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820f160c9768ddd41b9d30185b594a61
+      internalID: -1606600023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de44b6cbdb60c4e8ee46b4bb20cfd3
+      internalID: 914848679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cf51bd75f407646bc79177c5b3f772
+      internalID: -688108226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3645817c7caea248902c895967d2b0d
+      internalID: -1524641439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_18
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b3672a4400fb14c8486a9736a857b1
+      internalID: 2023742198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1808aa5c7b44f645bdf38517ded53e2
+      internalID: 123492637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_20
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e56aafec66ec54c92feb5320f49465
+      internalID: 1440905368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_21
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c023af92a4a396f499ef57dc77e06e30
+      internalID: 207193964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_22
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a362c86ff329574393476d6907c743c
+      internalID: -2105568972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_23
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c933cdcfcd3104594ad5860d9efa41
+      internalID: -35207647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_24
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a42bbe3f88a79b449d1049884838ce4
+      internalID: -1218163253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_25
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 380
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48810c39f31033498933f3fa8daeae3
+      internalID: 1412139464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c128b34bfc0d8488007eedafdea6bd
+      internalID: -1510246429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46150269685e6c4cb4e9aa7f5a009a7
+      internalID: -259835204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc48e05aa03f55c43810992d22d33570
+      internalID: 721456952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f38325cf0e834e9466537ed8e711c
+      internalID: 1749919943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa16c12aec29bbc43a63e073d95e1d94
+      internalID: -387971762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_31
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bc4d0c25e0b4742bc3a56b3af23440
+      internalID: -499367651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_32
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c9d9f3acb835e429ec2e123c016c75
+      internalID: -934746485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_33
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812d6e756b4edf54f98b486b7617f41b
+      internalID: 593914994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_34
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9ffcee4aaa5e43a79236fd865f851
+      internalID: 2020089228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_35
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ba085694d7f7148a74b7d7f4d34840
+      internalID: -376989348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_36
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6c5556cc38a7e4ba8694c4baae3e55
+      internalID: -334970404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_37
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9961b802cc7e34780047e9609ab140
+      internalID: -1115223871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_38
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 190
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b3c66187d90d442add3286b931b672
+      internalID: -1680223727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa2b751b79f90e47ab272be22501626
+      internalID: 1649509967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870ce03c596f9eb47a87dbfc73f0597e
+      internalID: -1113176959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240915d102904a740b36c5ece773fd47
+      internalID: 66058212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_42
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de621fd0be34d1e4cb2dfcd1ac72c7ad
+      internalID: -710850492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_43
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad82978c07c2f14f922d369c63cf0a5
+      internalID: -201432214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_44
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0196f3b9d249038469864b5ed1cb7141
+      internalID: 1650064926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_45
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09872d7810d404949b34dbde4e18e56e
+      internalID: 492925488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_46
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aaf15235a852947916e4cfff59ac87
+      internalID: 468052292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_47
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d15fc0d9fc6124a984ef20eb00524b
+      internalID: 393782187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_48
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ed0c80439c6d74d9fd85c22585715d
+      internalID: -1009541087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_49
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3d28ed9869a94c9cf57ba9248d980
+      internalID: 486288125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_50
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41bca3dd689dc94cab1d7b7f5e6779a
+      internalID: -1017144184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitDeck_opt2_51
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f272310c30ba4c973bee42307b184
+      internalID: -243654947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      8BitDeck_opt2_0: -490261298
+      8BitDeck_opt2_1: -1211796172
+      8BitDeck_opt2_10: -216088479
+      8BitDeck_opt2_11: -1301232184
+      8BitDeck_opt2_12: 1670980492
+      8BitDeck_opt2_13: 422203307
+      8BitDeck_opt2_14: -1606600023
+      8BitDeck_opt2_15: 914848679
+      8BitDeck_opt2_16: -688108226
+      8BitDeck_opt2_17: -1524641439
+      8BitDeck_opt2_18: 2023742198
+      8BitDeck_opt2_19: 123492637
+      8BitDeck_opt2_2: 2036471401
+      8BitDeck_opt2_20: 1440905368
+      8BitDeck_opt2_21: 207193964
+      8BitDeck_opt2_22: -2105568972
+      8BitDeck_opt2_23: -35207647
+      8BitDeck_opt2_24: -1218163253
+      8BitDeck_opt2_25: 1412139464
+      8BitDeck_opt2_26: -1510246429
+      8BitDeck_opt2_27: -259835204
+      8BitDeck_opt2_28: 721456952
+      8BitDeck_opt2_29: 1749919943
+      8BitDeck_opt2_3: 1686887422
+      8BitDeck_opt2_30: -387971762
+      8BitDeck_opt2_31: -499367651
+      8BitDeck_opt2_32: -934746485
+      8BitDeck_opt2_33: 593914994
+      8BitDeck_opt2_34: 2020089228
+      8BitDeck_opt2_35: -376989348
+      8BitDeck_opt2_36: -334970404
+      8BitDeck_opt2_37: -1115223871
+      8BitDeck_opt2_38: -1680223727
+      8BitDeck_opt2_39: 1649509967
+      8BitDeck_opt2_4: -295391671
+      8BitDeck_opt2_40: -1113176959
+      8BitDeck_opt2_41: 66058212
+      8BitDeck_opt2_42: -710850492
+      8BitDeck_opt2_43: -201432214
+      8BitDeck_opt2_44: 1650064926
+      8BitDeck_opt2_45: 492925488
+      8BitDeck_opt2_46: 468052292
+      8BitDeck_opt2_47: 393782187
+      8BitDeck_opt2_48: -1009541087
+      8BitDeck_opt2_49: 486288125
+      8BitDeck_opt2_5: -693212396
+      8BitDeck_opt2_50: -1017144184
+      8BitDeck_opt2_51: -243654947
+      8BitDeck_opt2_6: 1155977725
+      8BitDeck_opt2_7: 695525755
+      8BitDeck_opt2_8: 480771449
+      8BitDeck_opt2_9: 1681790910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
